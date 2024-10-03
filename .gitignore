@@ -1,0 +1,17 @@
+# Directorio de binarios
+bin/
+
+# Archivos objeto
+*.o
+
+# Archivos de depuración
+*.dSYM/
+
+# Archivos temporales
+*~
+*.swp
+*.swo
+
+# Ejecutables
+servidor
+cliente
